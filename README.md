@@ -63,10 +63,6 @@ Final Grade: **19/20** ✅
 - Fully automated **end-to-end workflow** in ComfyUI.  
 - Achieved **19/20 grade** 🎉  
 
-📸 **Screenshots**  
-- Workflow: ![Workflow Screenshot](images/workflow.png)  
-- Sample Panels: ![Panel Samples](images/panels.png)  
-- Final Comic Page: ![Final Comic](images/final_comic.png)  
 
 ---
 
@@ -85,10 +81,5 @@ Final Grade: **19/20** ✅
 
 ---
 
-## 📂 Repository Contents  
-- `workflow.json` → ComfyUI workflow  
-- `lora_training/` → LoRA training details  
-- `images/` → Sample panels & outputs  
-- `final_comic/` → 6-panel comic page (PDF/PNG)  
 
----
+
